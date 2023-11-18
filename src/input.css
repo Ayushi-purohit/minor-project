@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.hero{
+ background-image: url(hero\ image\ rmn.png);
+ 
+}
+.count{
+    background-image: url(count-down-image.png);
+    background-size: auto;
+}
+.contact{
+    background-image: url(contact-bg-image.png);
+}
+.mainimage{
+    background-image: url(riya2.jpg);
+}
